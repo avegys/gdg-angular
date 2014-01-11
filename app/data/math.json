@@ -1,0 +1,18 @@
+[
+    {        
+        "id": "algebra",         
+        "name": "Algebra"
+    }, 
+    {        
+        "id": "geometry",         
+        "name": "Geometry and topology"
+    }, 
+    {        
+        "id": "logic",         
+        "name": "Logic"
+    }, 
+    {        
+        "id": "combinatorics",         
+        "name": "Combinatorics"
+    }    
+]

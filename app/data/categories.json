@@ -1,0 +1,18 @@
+[
+    {        
+        "id": "math",         
+        "name": "Mathematics"
+    }, 
+    {        
+        "id": "languages",         
+        "name": "Languages"
+    }, 
+    {        
+        "id": "social",         
+        "name": "Social"
+    }, 
+    {        
+        "id": "it",         
+        "name": "Information technologies"
+    }    
+]
